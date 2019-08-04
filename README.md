@@ -1,0 +1,1 @@
+A website to manage the various domains like education, healthcare and livelihood of an NGO. Work done, events, campaigns were placed under respective headings. Donations were taken through a payment gateway. Users could upload their profile, update it, check their placement for volunteering and so on.
